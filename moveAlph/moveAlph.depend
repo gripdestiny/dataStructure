@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481806421 source:/home/gcnan604/devdata/datastruct/moveAlph/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

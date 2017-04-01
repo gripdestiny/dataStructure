@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481972652 source:/home/gcnan604/devdata/datastruct/RPN/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

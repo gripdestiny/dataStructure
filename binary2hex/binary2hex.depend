@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481876228 source:/home/gcnan604/devdata/datastruct/binary2hex/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
