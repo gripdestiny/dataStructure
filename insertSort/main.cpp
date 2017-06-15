@@ -28,7 +28,7 @@ bool insertSort(int A[],int n)
 
 int main()
 {
-	int A[] = {1,3,5,65,4,15,46};
+	int A[] = {1,3,5,65,4,15,462};
 	insertSort(A,7);
 	cout<<"After sorted:";
 	for(int i = 0; i < 7; i++)
