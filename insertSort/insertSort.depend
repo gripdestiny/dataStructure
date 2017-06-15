@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497508756 source:/home/gcnan604/devdata/datastruct/insertSort/main.cpp
+	<iostream>
+	<stdlib.h>
+
